@@ -112,7 +112,7 @@ Design patterns differ by their complexity, level of detail and scale of applica
     <td align="center">
         <img src="assets/imgs/structure-patterns/composite.png" width="100px">
         <div>
-          <a href="#">Composite</a>
+          <a href="./docs/composite.md">Composite</a>
         </div>
     </td>
     <td align="center">

@@ -3,18 +3,25 @@ package ma.ensa.beans;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Employee implements Cloneable{
+public class Employee extends EmployeeComponent implements Cloneable{
     private int id;
     private String name;
+    private final List<EmployeeComponent> teamMembers;
 
     public Employee(int id, String nom) {
         this.id = id;
         this.name = nom;
+        this.teamMembers = new ArrayList<>();
     }
 
     @Override
     public void displayInfo() {
         System.out.println("Employee: " + name + " (ID: " + id + ")");
+    }
+
+    @Override
+    public List<EmployeeComponent> getTeamMembers() {
+        return teamMembers;
     }
 
     public int getId() {
@@ -37,6 +44,14 @@ public class Employee implements Cloneable{
     public Employee clone() throws CloneNotSupportedException {
         return (Employee) super.clone();
     }
-    
+
+    public void addTeamMember(EmployeeComponent employee) {
+        teamMembers.add(employee);
+    }
+
+    public void removeTeamMember(EmployeeComponent employee) {
+        teamMembers.remove(employee);
+    }
+
 }
 
