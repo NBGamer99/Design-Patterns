@@ -148,7 +148,7 @@ Design patterns differ by their complexity, level of detail and scale of applica
     <td align="center">
         <img src="assets/imgs/behav-patterns/state.png"  width="100px">
         <div>
-        <a href="#">State</a>
+        <a href="./docs/state.md">State</a>
         </div>
     </td>
     <td align="center">
