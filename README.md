@@ -124,7 +124,7 @@ Design patterns differ by their complexity, level of detail and scale of applica
     <td align="center">
         <img src="assets/imgs/structure-patterns/flyweight.png"  width="100px">
         <div>
-          <a href="#">Flyweight</a>
+          <a href="./docs/flyweight.md">Flyweight</a>
         </div>
     </td>
   </tr>
