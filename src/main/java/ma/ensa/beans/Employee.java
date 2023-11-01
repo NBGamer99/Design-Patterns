@@ -53,5 +53,13 @@ public class Employee extends EmployeeComponent implements Cloneable{
         teamMembers.remove(employee);
     }
 
+    public EmployeeMemento saveToMemento() {
+        return new EmployeeMemento(name, id);
+    }
+
+    public void restoreFromMemento(EmployeeMemento memento) {
+        this.name = memento.getName();
+        this.id = memento.getId();
+    }
 }
 
