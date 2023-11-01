@@ -154,7 +154,7 @@ Design patterns differ by their complexity, level of detail and scale of applica
     <td align="center">
         <img src="assets/imgs/behav-patterns/command.png"  width="100px">
         <div>
-          <a href="#">Command</a>
+          <a href="./docs/command.md">Command</a>
         </div>
     </td>
   </tr>
