@@ -142,7 +142,7 @@ Design patterns differ by their complexity, level of detail and scale of applica
     <td align="center">
         <img src="assets/imgs/behav-patterns/memento.png" width="100px">
         <div>
-          <a href="#">Memento</a>
+          <a href="./docs/momento.md">Memento</a>
         </div>
     </td>
     <td align="center">
