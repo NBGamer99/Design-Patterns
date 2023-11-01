@@ -53,25 +53,25 @@ Design patterns differ by their complexity, level of detail and scale of applica
     <td align="center">
         <img src="assets/imgs/creation-patterns/singleton.png" width="100px">
         <div>
-          <a href="#">Singleton</a>
+          <a href="./docs/singleton.md">Singleton</a>
         </div>
     </td>
     <td align="center">
         <img src="assets/imgs/creation-patterns/builder.png" width="100px">
         <div>
-          <a href="#">Builder</a>
+          <a href="./docs/builder.md">Builder</a>
         </div>
     </td>
     <td align="center">
         <img src="assets/imgs/creation-patterns/factory.png"  width="100px">
         <div>
-          <a href="#">Factory</a>
+          <a href="./docs/factory.md">Factory</a>
         </div>
     </td>
     <td align="center">
         <img src="assets/imgs/creation-patterns/prototype.png"  width="100px">
         <div>
-          <a href="#">Prototype</a>
+          <a href="./docs/prototype.md">Prototype</a>
         </div>
     </td>
   </tr>
@@ -83,25 +83,25 @@ Design patterns differ by their complexity, level of detail and scale of applica
     <td align="center">
         <img src="assets/imgs/structure-patterns/proxy.png" width="100px">
         <div>
-          <a href="#">Proxy</a>
+          <a href="./docs/proxy.md">Proxy</a>
         </div>
     </td>
     <td align="center">
         <img src="assets/imgs/structure-patterns/decorator.png" width="100px">
         <div>
-          <a href="#">Decorator</a>
+          <a href="./docs/decorator.md">Decorator</a>
         </div>
     </td>
     <td align="center">
         <img src="assets/imgs/structure-patterns/facade.png"  width="100px">
         <div>
-          <a href="#">Facade</a>
+          <a href="./docs/facade.md">Facade</a>
         </div>
     </td>
     <td align="center">
         <img src="assets/imgs/structure-patterns/adapter.png"  width="100px">
         <div>
-          <a href="#">Adapter</a>
+          <a href="./docs/adapter.md">Adapter</a>
         </div>
     </td>
   </tr>
@@ -118,7 +118,7 @@ Design patterns differ by their complexity, level of detail and scale of applica
     <td align="center">
         <img src="assets/imgs/structure-patterns/bridge.png" width="100px">
         <div>
-          <a href="#">Bridge</a>
+          <a href="./docs/bridge.md">Bridge</a>
         </div>
     </td>
     <td align="center">
