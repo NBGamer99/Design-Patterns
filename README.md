@@ -8,6 +8,9 @@
   <p align="center">
     From Chaos to Clarity: Design Patterns for a Harmonious World
   </p>
+  <p align="center">
+    <a href="https://refactoring.guru/design-patterns">Resource Refactoring Guru</a>
+  </p>
 </div>
 
 <br />
